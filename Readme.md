@@ -1,6 +1,6 @@
 # CVUTGuessr
 
-Source code for the diploma thesis CVUTGuessr.
+Source code-less readme of the diploma thesis CVUTGuessr.
 A location guessing game on and around CTU campus.
 
 Built in Kotlin Multiplatform for Android and iOS.
