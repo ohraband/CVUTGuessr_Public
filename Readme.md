@@ -9,6 +9,7 @@ to run locally.
 After that it should be runnable from either platform's usual start points (green play button in Android Studio/IntelliJ
 and run in XCode).
 
+https://apps.apple.com/dk/app/cvut-guessr/id6761483800?platform=watch
 
 Gameplay screenshots:
 ## 🎮 Gameplay Showcase
